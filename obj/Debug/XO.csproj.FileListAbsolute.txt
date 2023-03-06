@@ -1,0 +1,13 @@
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\bin\Debug\XO.exe.config
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\bin\Debug\XO.exe
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\bin\Debug\XO.pdb
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.csproj.SuggestedBindingRedirects.cache
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.Form1.resources
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.Properties.Resources.resources
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.csproj.GenerateResource.cache
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.exe
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.pdb
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.Form2.resources
+D:\UPT\Anul 2.2\MTP - Medii si Tehnologii de Programare\Laboratoare\Lab2\XO\obj\Debug\XO.Form3.resources
